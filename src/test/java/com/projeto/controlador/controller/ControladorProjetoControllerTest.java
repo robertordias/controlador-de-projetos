@@ -14,7 +14,7 @@ import org.springframework.ui.ModelMap;
 import com.projeto.controlador.model.Projeto;
 import com.projeto.controlador.service.ProjetoService;
 
-class ProjetoControladorControllerTest {
+class ControladorProjetoControllerTest {
 	
 	@InjectMocks
     private ControladorProjetoController controladorProjetoController;
