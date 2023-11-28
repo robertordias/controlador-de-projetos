@@ -7,6 +7,9 @@ public class MembrosDTO {
 		this.atribuicao = atribuicao;
 	}
 	
+	public MembrosDTO() {
+	}
+	
 	private String nome;
 	
 	private String atribuicao;
